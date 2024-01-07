@@ -1,0 +1,11 @@
+Character: Collezio
+Class: Sorcerer
+Race: Dwarf
+Subrace: Hill Dwarf
+Abilities:
+  Strength: 13
+  Dexterity: 9
+  Constitution: 11
+  Intelligence: 9
+  Wisdom: 12
+  Charisma: 8
